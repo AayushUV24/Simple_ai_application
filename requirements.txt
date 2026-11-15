@@ -1,7 +1,9 @@
 python-dotenv
-langchain-openai
 langchain
-ipykernel
-bs4
+langchain-core
+langchain-ollama
 langchain-community
+ipykernel
+beautifulsoup4
 faiss-cpu
+streamlit
