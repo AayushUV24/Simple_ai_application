@@ -11,3 +11,7 @@ langchain-groq
 fastapi
 uvicorn
 langserve
+transformers
+langchain-chroma
+langchain_huggingface
+sentence-transformers
